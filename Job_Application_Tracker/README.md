@@ -15,7 +15,7 @@ Python, SQLite, SQL, CLI
 
 ## Run
 ```bash
-python Job Application Tracker.py
+python Job_Application_Tracker.py
 ```
 
 The SQLite database is created automatically on first run.
