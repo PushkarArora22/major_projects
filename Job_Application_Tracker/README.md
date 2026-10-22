@@ -1,4 +1,4 @@
-
+xgxgx
 # Job Application Tracker
 
 A Python command-line application for managing and tracking job applications using SQLite.
