@@ -2,7 +2,7 @@ import csv
 import sqlite3
 from datetime import datetime
 
-DB_NAME = "finance.db"
+DB_NAME = "finance.db"jl
 
 
 def connect():
