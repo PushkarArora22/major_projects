@@ -1,7 +1,7 @@
 import sqlite3
 from datetime import datetime
 
-DB_NAME = "job_tracker.db"agg
+DB_NAME = "job_tracker.db"
 STATUSES = ("Applied", "Assessment", "Interview", "Offer", "Rejected")
 
 
