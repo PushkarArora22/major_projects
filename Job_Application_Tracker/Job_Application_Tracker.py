@@ -1,4 +1,4 @@
-import sqlite3
+nnimport sqlite3
 from datetime import datetime
 
 DB_NAME = "job_tracker.db"
